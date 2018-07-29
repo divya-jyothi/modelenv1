@@ -28,160 +28,212 @@ How to Download:**
 ############### RUNDECK ####################
 
 **File:**
+
 		**framework.properties**
 
 **Path:**
+
 		_/etc/rundeck_
 
 **How to Download**
+
 		_wget https://github.com/ncodeitgithub1/modelenv1/blob/master/framework.properties_
 
 **File:**
+
 		**rundeck-config.properties**
-**Path:**	
+**Path:**
+	
 		_/etc/rundeck_
 
 **How to Download**
+
 		_wget https://github.com/ncodeitgithub1/modelenv1/blob/master/rundeck-config.properties_
 
 **File:**
+
 		**resources.xml** 
-**Path:**	
+**Path:**
+	
 		_/var/rundeck/projects/ncodeit/etc_
 
 **How to Download**
+
 		_wget https://github.com/ncodeitgithub1/modelenv1/blob/master/resources.xml_
 
 
 ############## NAGIOS ####################
 
 **File:**
+
 		**nagios.cfg** 
-**Path:**	
+**Path:**
+	
 		_/usr/local/nagios/etc_
 
 **How to Download**
+
 		_wget https://github.com/ncodeitgithub1/modelenv1/blob/master/nagios.cfg_ 
 
 **File:**
+
 		**clients.cfg** 
-**Path:**	
+**Path:**
+	
 		_/usr/local/nagios/etc/servers_
 
 **How to Download**
+
 		_wget https://github.com/ncodeitgithub1/modelenv1/blob/master/clients.cfg_ 
 
 **File:**
+
 		**nrpe.cfg** 
-**Path:**	
+**Path:**
+	
 		_/etc/nagios_
 
 **How to Download**
+
 		_wget https://github.com/ncodeitgithub1/modelenv1/blob/master/nrpe.cfg_ 
 
 ############## PROMETHEUS ##############
 
 **File:**
+
 		**prometheus.yml**
 **Path:**
+
 		_ /home/ncodeitadm/prometheus-2.3.1.linux-amd64_
 
 **How to Download**
+
 		_wget https://github.com/ncodeitgithub1/modelenv1/blob/master/prometheus.yml_
 
 ############## NEXUS ##############
 
 **File:**
+
 		**nexus-default.properties**
-**Path:**	
+**Path:**
+	
 		_/usr/local/nexus/etc_
 
 **How to Download**
+
 		_wget https://github.com/ncodeitgithub1/modelenv1/blob/master/nexus-default.properties_
 
 **File:**
+
 		**nexus.rc**
 **Path:**
+
 		_/usr/local/nexus/bin_
 
 **How to Download**
+
 		_wget https://github.com/ncodeitgithub1/modelenv1/blob/master/nexus.rc_ 
 
 ############## ANSIBLE ##############
 
 **File:**
+
 		**hosts**
-**Path:**	
+**Path:**
+	
 		_/etc/ansible_
 
 **How to Download**
+
 		_wget https://github.com/ncodeitgithub1/modelenv1/blob/master/hosts_
 
 ############## FILEBEAT ##############
 
 **File:**
+
 		**filebeat.yml** 
-**Path:**	
+**Path:**
+	
 		_/etc/filebeat_
 
 **How to Download:**
+
 		_wget https://github.com/ncodeitgithub1/modelenv1/blob/master/filebeat.yml_
 
 ############## HEARTBEAT ##############
 
 **File:**
+
 		**heartbeat.yml**
 **Path:**
+
 		_/etc/hearbeat/_
 
 **How to Download**
+
 		_wget https://github.com/ncodeitgithub1/modelenv1/blob/master/heartbeat.yml_
 
 ############## METRICBEAT ##############
 
 **File:**
+
 		**metricbeat.yml**
-**Path:**	
+**Path:**
+	
 		_/etc/metricbeat_
 
 **How to Download**
+
 		_wget https://github.com/ncodeitgithub1/modelenv1/blob/master/metricbeat.yml_
 
 ############## KIBANA ##############
 
 **File:**
+
 		**kibana.yml**
-**Path:**	
+**Path:**
+	
 		_/home/ncodeitadm/kibana-6.3.1-linux-x86_64/config_ 
 
 **How to Download:**
+
 		_wget https://github.com/ncodeitgithub1/modelenv1/blob/master/kibana.yml_
 
 ############## LOGSTASHBEAT ##############
 
 **File:**
+
 		**demo-metrics-pipeline.conf** 
-**Path:**	
+**Path:**
+	
 		_/etc/logstash/conf.d_
 
 **How to Download**
+
 		_wget https://github.com/ncodeitgithub1/modelenv1/blob/master/demo-metrics-pipeline.conf_
 
 **File:**
+
 		**logstash.yml**
 **Path:**
+
 		_/etc/logstash_ 
 
 **How to Download:**
+
 		_wget https://github.com/ncodeitgithub1/modelenv1/blob/master/logstash.yml_
 
 ############## ELASTICSEARCH ##############
 
 **File:**
+
 		**elasticsearch.yml** 
 
 **Path:**
+
 		_/etc/elasticsearch/_
 
 **How to Download**
+
+
 		_wget https://github.com/ncodeitgithub1/modelenv1/blob/master/elasticsearch.yml_
