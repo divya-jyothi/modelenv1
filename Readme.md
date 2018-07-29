@@ -4,8 +4,13 @@ _**CONFIGURATION FILES OF ALL TECHNOLOGIES**_
 ############**TOMCAT**###################
 
 
-**File**:**tomcat-users.xml**
-**path**:/home/ncodeitadm/apache-tomcat-9.0.10/conf
+**File**:
+
+  **tomcat-users.xml**
+
+**path**:
+
+  /home/ncodeitadm/apache-tomcat-9.0.10/conf
 
 **context.xml**
 #/home/ncodeitadm/apache-tomcat-9.0.10/webapps/host-manager/META-INF
