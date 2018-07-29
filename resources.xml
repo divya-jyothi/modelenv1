@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project>
+  <node name="192.168.22.162" description="Rundeck server node" tags="" hostname="192.168.22.162" osArch="amd64" osFamily="unix" osName="Linux" osVersion="3.10.0-862.6.3.el7.x86_64" username="rundeck"/>
+
+ <node name="192.168.22.155" description="Rundeck server node" tags="" hostname="192.168.22.155" osArch="amd64" osFamily="unix" osName="Linux" osVersion="3.10.0-862.6.3.el7.x86_64" username="ncodeitadm"/>
+
+ <node name="192.168.22.156" description="Rundeck server node" tags="" hostname="192.168.22.156" osArch="amd64" osFamily="unix" osName="Linux" osVersion="3.10.0-862.6.3.el7.x86_64" username="ncodeitadm"/>
+
+ <node name="192.168.22.157" description="Rundeck server node" tags="" hostname="192.168.22.157" osArch="amd64" osFamily="unix" osName="Linux" osVersion="3.10.0-862.6.3.el7.x86_64" username="ncodeitadm"/>
+
+ <node name="192.168.22.158" description="Rundeck server node" tags="" hostname="192.168.22.158" osArch="amd64" osFamily="unix" osName="Linux" osVersion="3.10.0-862.6.3.el7.x86_64" username="ncodeitadm"/>
+
+ <node name="192.168.22.171" description="Rundeck server node" tags="" hostname="192.168.22.171" osArch="amd64" osFamily="unix" osName="Linux" osVersion="3.10.0-862.6.3.el7.x86_64" username="ncodeitadm"/>
+
+ <node name="192.168.22.172" description="Rundeck server node" tags="" hostname="192.168.22.172" osArch="amd64" osFamily="unix" osName="Linux" osVersion="3.10.0-862.6.3.el7.x86_64" username="ncodeitadm"/>
+
+ <node name="192.168.22.159" description="Rundeck server node" tags="" hostname="192.168.22.159" osArch="amd64" osFamily="unix" osName="Linux" osVersion="3.10.0-862.6.3.el7.x86_64" username="ncodeitadm"/>
+
+ <node name="192.168.22.160" description="Rundeck server node" tags="" hostname="192.168.22.160" osArch="amd64" osFamily="unix" osName="Linux" osVersion="3.10.0-862.6.3.el7.x86_64" username="ncodeitadm"/>
+
+ <node name="192.168.22.139" description="Rundeck server node" tags="" hostname="192.168.22.139" osArch="amd64" osFamily="unix" osName="Linux" osVersion="3.10.0-862.6.3.el7.x86_64" username="ncodeitadm"/>
+
+<node name="192.168.22.204" description="Rundeck server node" tags="" hostname="192.168.22.204" osArch="amd64" osFamily="unix" osName="Linux" osVersion="3.10.0-862.6.3.el7.x86_64" username="ncodeitadm"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</project>
